@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Accursed Lands Help",
   description: "Help site for the Accursed Lands MUD",
   themeConfig: {
-    logo: './bannerLogo.png',
+    logo: './alIcon.png',
 
 
     // https://vitepress.dev/reference/default-theme-config
