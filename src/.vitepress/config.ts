@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Accursed Lands Help",
   description: "Help site for the Accursed Lands MUD",
+  head: [['link', { rel: 'icon', href: '/alIcon.png' }]],
   themeConfig: {
     logo: './alIcon.png',
 
@@ -13,7 +14,9 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
-
+    search: {
+      provider: 'local'
+    },
     sidebar: [
       {
         text: 'Examples',
