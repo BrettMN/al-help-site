@@ -4,22 +4,26 @@ layout: home
 
 hero:
   name: "Accursed Lands Help"
-  text: "Help site for the Accursed Lands MUD"
-  tagline: My great project tagline
+  text: "A help site for the Accursed Lands MUD"
+  tagline: Learn about the Mudlet UI for the Accursed Lands
+  image:
+    src: /bannerLogo.png
+    alt: Accursed Lands Logo
+#    width: 200
+#    height: 200
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started with the Mudlet UI
+      link: /gui/
+#    - theme: alt
+#      text: API Examples
+#      link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: In-game information at a glance
+    details: See your character's thirst, hunger, and fatigue levels at a glance
+  - title: Interactive Buttons
+    details: Turn travel, mercy, and common sense on or off with a button press 
+  - title: responsive UI
+    details: The main window width adjusts to Mudlets with size
 ---
-

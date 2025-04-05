@@ -6,29 +6,34 @@ export default defineConfig({
   description: "Help site for the Accursed Lands MUD",
   head: [['link', { rel: 'icon', href: '/alIcon.png' }]],
   themeConfig: {
-    logo: './alIcon.png',
+    logo: '/alIcon.png',
 
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Mudlet UI', link: '/gui/' }
     ],
     search: {
       provider: 'local'
     },
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Accursed Lands Mudlet User Interface',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Getting Started', link: '/gui/' },
+          { text: 'Map, Room Info, and Character Info', link: '/gui/left-side-bar/' },
+          { text: 'Hunger, Thirst, Fatigue, Posture, Mercy, Travel, Common Sense, and Help', link: '/gui/menu-bar/' },
+          { text: 'Styles, Survey, and Chat', link: '/gui/right-side-bar/' }
         ]
       }
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    ],
+    footer: {
+
+    }
   }
 })
