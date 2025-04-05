@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Accursed Lands Help",
   description: "Help site for the Accursed Lands MUD",
   head: [['link', { rel: 'icon', href: '/alIcon.png' }]],
+  base: '/al-help-site/',  // change this to repo name or the path where the site will be hosted
   themeConfig: {
     logo: '/alIcon.png',
 
