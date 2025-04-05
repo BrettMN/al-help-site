@@ -7,7 +7,7 @@ hero:
   text: "A help site for the Accursed Lands MUD"
   tagline: Learn about the Mudlet UI for the Accursed Lands
   image:
-    src: /bannerLogo.png
+    src: /banner-logo.png
     alt: Accursed Lands Logo
 #    width: 200
 #    height: 200

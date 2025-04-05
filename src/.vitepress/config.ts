@@ -7,7 +7,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/alIcon.png' }]],
   base: '/al-help-site/',  // change this to repo name or the path where the site will be hosted
   themeConfig: {
-    logo: '/alIcon.png',
+    logo: '/al-icon.png',
 
 
     // https://vitepress.dev/reference/default-theme-config
