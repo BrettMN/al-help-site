@@ -47,4 +47,13 @@ Survey shows the results of the last survey.  This could be from changing a room
 
 ## Chat
 
-chat
+The Chat section Shows chat messages on diffferent tabs for the channel they are from.  
+
+The tabs are: 
+All - This is a consolidated chat of all messages.
+Say - This tab displays local chat messages
+Chat - This tab shows chat from the [Chat] Channel
+Mentor - This tab shows chat from the [Mentor] Channel
+Newbie - This tab shows chat from the [Newbie] Channel
+
+![Chat showing all messages](imachat-00ge.png)
