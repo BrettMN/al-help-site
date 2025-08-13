@@ -14,7 +14,7 @@ The Accursed Lands Mudlet UI should be downloaded from the server when you conne
 
 The `generic_mapper` that Mudlet adds by default to all profiles should be removed. 
 
-When your profile is open in Mudlet, either logged on or just logged off, use the `Toolbox` menu to open the `Pacakge Manager` window. 
+When your profile is open in Mudlet, either logged on or just logged off, use the `Toolbox` menu to open the `Package Manager` window. 
 
 ![open the Package Manager form the Toolbox menu](toolbox-menu.png)
 

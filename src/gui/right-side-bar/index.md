@@ -19,9 +19,9 @@ This means that the bar moves towards the style it is related to.
 
 For instance this set of bars matches the following AL Style Bar set.
 
-![GUI Styles with Attack at 75% and Defence at 25%](gui-styles-01.png)
+![GUI Styles with Attack at 75% and Defense at 25%](gui-styles-01.png)
 
-![Text Styles with Attack at 75% and Defence at 25%](text-styles-01.png)
+![Text Styles with Attack at 75% and Defense at 25%](text-styles-01.png)
 
 ### Update Your Styles in the GUI
 
@@ -47,7 +47,7 @@ Survey shows the results of the last survey.  This could be from changing a room
 
 ## Chat
 
-The Chat section Shows chat messages on diffferent tabs for the channel they are from.  
+The Chat section Shows chat messages on different tabs for the channel they are from.  
 
 The tabs are: 
 All - This is a consolidated chat of all messages.

@@ -25,5 +25,5 @@ features:
   - title: Interactive Buttons
     details: Turn travel, mercy, and common sense on or off with a button press 
   - title: responsive UI
-    details: The main window width adjusts to Mudlets with size
+    details: The main window width adjusts to Mudlet's with size
 ---
