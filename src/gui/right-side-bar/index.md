@@ -56,4 +56,4 @@ Chat - This tab shows chat from the [Chat] Channel
 Mentor - This tab shows chat from the [Mentor] Channel
 Newbie - This tab shows chat from the [Newbie] Channel
 
-![Chat showing all messages](imachat-00ge.png)
+![Chat showing all messages](chat-00.png)
