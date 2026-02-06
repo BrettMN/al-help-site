@@ -33,7 +33,19 @@ The first four items in the header are status indicators.  Hunger, Thirst, and F
 Posture Shows your current posture.  It does not change colors. 
 
 #### Laying Down
+![Laying Down](laying-down.png)
 
+#### Sitting
+![Sitting](sitting-down.png)
+
+#### Kneeling
+![Kneeling](kneeling.png)
+
+#### Stooping
+![Stooping](stooping.png)
+
+#### Standing
+![Standing](standing.png)
 
 ## Buttons
 
