@@ -6,12 +6,23 @@ outline: deep
 
 ## Map
 
-map things
+This is the Mudlet mapper.  It shows what your character has explored of the world.
+![Map](map.png)
+
 
 ## Current Room Info
 
-room info
+This shows the current rooms when you enter it and gets updated when you look. 
+
+It lists Creatures and Items
+
+![Room Info](room-info-00.png)
+
+![Room info](room-info-01.png)
+
 
 ## Character Info
 
-character info
+The bottom section shows your health
+
+![Character Info](character-info.png)
